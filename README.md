@@ -17,7 +17,14 @@ To get started with the code, clone this repository and install the necessary de
 
 
 # Usage for Webpage
-Functions that are essential for running Webpage.
+Steps that are essential for running Webpage.
+
+1.⁠ ⁠Open the Python file 'app.py' in a code editor.
+2.⁠ ⁠Ensure that you have Python installed on your computer.
+3.⁠ ⁠In the terminal, navigate to the directory where 'app.py' is located.
+4.⁠ ⁠Run the Python file by typing 'python app.py' in the terminal and hitting enter.
+5.⁠ ⁠If there are any errors, the terminal will display them for you to troubleshoot.
+6.⁠ ⁠Once the code runs without errors, you can access the local host where the code is running, typically by opening a web browser and entering the localhost address specified in the code.
 
 
 # Contact
